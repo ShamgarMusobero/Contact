@@ -65,7 +65,7 @@ def main():
 			if search in fu.read():
 				print("The contact is there in the address")
 			else:
-				print("The contact is there in the address not there")
+				print("The contact is not  there in the address")
 	
 			goback()
 		elif num== 3:
